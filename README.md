@@ -5,6 +5,7 @@ An interactive **Power BI dashboard** designed to analyze Uber ride-booking data
 ## 📊 Project Overview
 
 This project was developed as a **hands-on learning project while learning Power BI through a guided YouTube tutorial**.
+@The-Developer-BI 
 
 The tutorial was used as a reference to understand the process of building a professional dashboard, including **data preparation, DAX calculations, KPI creation, visualization selection, and interactive report design**.
 
@@ -136,15 +137,18 @@ Some observations from the dashboard include:
 
 ### Vehicle Analysis
 
-![Vehicle Analysis](screenshots/03-vehicle-analysis.png)
+<img width="1412" height="787" alt="Vehicle" src="https://github.com/user-attachments/assets/858dac8e-c162-4d87-8cb1-a073296381db" />
+
 
 ### Revenue Analysis
 
-![Revenue Analysis](screenshots/04-revenue-analysis.png)
+<img width="1412" height="787" alt="Revenue" src="https://github.com/user-attachments/assets/f030af6b-65ac-48a7-bbaa-788f88ed35f3" />
+
 
 ### Customer Analysis
 
-![Customer Analysis](screenshots/05-customer-analysis.png)
+<img width="1411" height="782" alt="Customer" src="https://github.com/user-attachments/assets/c1356163-a77b-4080-99c6-3e0f8d6ab9da" />
+
 
 ---
 
