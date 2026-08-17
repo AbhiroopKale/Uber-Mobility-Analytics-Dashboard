@@ -131,7 +131,8 @@ Some observations from the dashboard include:
 
 ### Overview
 
-![Overview](screenshots/02-overview.png)
+<img width="1415" height="790" alt="image" src="https://github.com/user-attachments/assets/945e9772-dba5-4c95-a6f4-6bb2750f3fd7" />
+
 
 ### Vehicle Analysis
 
